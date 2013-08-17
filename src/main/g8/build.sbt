@@ -1,1 +1,3 @@
-// give the user a nice default project!
+name := "$name$"
+
+scalaVersion := "$scalaVersion$"
