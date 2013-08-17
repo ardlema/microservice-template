@@ -1,3 +1,5 @@
+import AssemblyKeys._
+
 name := "$name$"
 
-scalaVersion := "$scalaVersion$"
+jarName in assembly := "$name$.jar"
