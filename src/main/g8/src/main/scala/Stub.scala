@@ -1,3 +1,3 @@
-class Stub {
-  // got any helpful boilerplate for your users?
+object Stub {
+  def main(args: Array[String]) { println("Hi there!!!") }
 }
