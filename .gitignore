@@ -3,3 +3,6 @@ target/*
 /src/main/g8/project/target/*
 /src/main/g8/project/project/target/*
 
+#IntelliJ files
+src/main/g8/.idea/
+src/main/g8/.idea_modules/
