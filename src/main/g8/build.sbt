@@ -1,7 +1,9 @@
 import AssemblyKeys._
 
-name := "$name$"
+name := "micro-service"
 
 scalaVersion := "2.10.0"
 
-jarName in assembly := "$name$.jar"
+assemblySettings
+
+jarName in assembly := "micro-service.jar"
