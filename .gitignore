@@ -2,6 +2,7 @@ target/*
 /src/main/g8/target/*
 /src/main/g8/project/target/*
 /src/main/g8/project/project/target/*
+/src/main/g8/lib_managed/
 
 #IntelliJ files
 src/main/g8/.idea/
