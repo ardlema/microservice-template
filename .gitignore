@@ -3,6 +3,7 @@ target/*
 /src/main/g8/project/target/*
 /src/main/g8/project/project/target/*
 /src/main/g8/lib_managed/
+/src/main/g8/micro-service.log
 
 #IntelliJ files
 src/main/g8/.idea/
